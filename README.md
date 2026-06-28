@@ -51,6 +51,14 @@ Le projet vise à vulgariser le sujet sans sensationnalisme, tout en s’appuyan
 
 ---
 
+### Capture — structure du projet Debian
+
+Cette capture montre la structure locale du projet créée sur Debian ainsi que la validation de l’accès Internet depuis la machine virtuelle.
+
+![Structure du projet Debian](debian-structure-projet.png)
+
+---
+
 ## État d’avancement
 
 Éléments déjà validés dans l’environnement de test :
