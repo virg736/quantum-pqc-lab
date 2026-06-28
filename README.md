@@ -15,7 +15,7 @@
 
 ---
 
-Ce projet s’inscrit dans une démarche d’ingénierie appliquée : l’architecture, l’environnement de test, la configuration réseau, les services et la documentation sont conçus et construits progressivement de manière autonome.
+Ce projet s’inscrit dans une démarche d’ingénierie appliquée : l’architecture, l’environnement de test, la configuration réseau, les services et la documentation sont conçus et construits progressivement dans une logique de laboratoire reproductible.
 
 ---
 
