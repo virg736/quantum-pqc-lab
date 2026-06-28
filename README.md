@@ -151,6 +151,8 @@ La version complète du laboratoire comprend :
 - documentation complète ;
 - supports de formation.
 
+> 🔒 **Accès réservé**  
+> La version complète du laboratoire est réservée aux formations professionnelles, aux écoles d’ingénieurs et aux accompagnements encadrés.
 ---
 
 ## Finalité du projet
