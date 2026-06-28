@@ -173,7 +173,6 @@ Quantum-PQC-Lab a pour objectif de produire :
 Pour obtenir plus d’informations sur la version complète du laboratoire, organiser une formation ou échanger autour d’une collaboration professionnelle :
 
 **Virginie Lechene**  
-Site web : `https://virg736.github.io/`  
 Contact : `virginielechene@proton.me`
 
 ---
