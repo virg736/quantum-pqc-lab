@@ -77,9 +77,7 @@ Cette capture montre la structure locale du projet créée sur Debian ainsi que 
 
 ---
 
----
-
-### Capture — nginx actif sur Debian
+### Capture - nginx actif sur Debian
 
 Cette capture montre que le service nginx est installé, lancé et actif sur la machine Debian Server.
 
@@ -96,9 +94,7 @@ Cette configuration permet de construire un laboratoire isolé tout en gardant l
 
 ---
 
----
-
-### Capture — port 80 ouvert sur Debian
+### Capture - port 80 ouvert sur Debian
 
 Cette capture montre que nginx écoute bien sur le port HTTP 80.
 
@@ -175,7 +171,7 @@ Pour obtenir la version complète du laboratoire ou organiser une formation prof
 
 **Virginie Lechene**  
 Site web : `ton-lien-site`  
-Contact : `ton-email`
+Contact : `virginielechene@proton.me`
 
 ---
 
