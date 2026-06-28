@@ -5,7 +5,7 @@
 <h1 align="center">Quantum-PQC-Lab</h1>
 
 <p align="center">
-  <strong>Laboratoire cybersécurité post-quantique - aperçu public</strong>
+  <strong>Laboratoire de cybersécurité post-quantique - aperçu public</strong>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ L’objectif est de créer un laboratoire reproductible afin de démontrer concr
 - les différences entre cryptographie classique et cryptographie post-quantique ;
 - les ordres de grandeur liés aux algorithmes de Shor et Grover ;
 - les mécanismes actuels de transition vers la cryptographie post-quantique ;
-- le risque **Store Now, Decrypt Later**.
+- le risque dit **Store Now, Decrypt Later**.
 
 Le projet vise à vulgariser le sujet sans sensationnalisme, tout en s’appuyant sur des mécanismes techniques réels.
 
@@ -44,8 +44,8 @@ Le projet vise à vulgariser le sujet sans sensationnalisme, tout en s’appuyan
 
 | Élément | Rôle | Services / outils | Objectifs |
 |---|---|---|---|
-| Machine hôte | Virtualisation | VirtualBox, 16 Go RAM recommandés, 4 vCPU minimum, 80 Go disque | Héberger les machines virtuelles du laboratoire |
-| VM 1 - Debian Server | Serveur TLS | nginx ou apache, OpenSSL 3, liboqs, oqs-provider | Générer des certificats classiques et PQC, tester TLS classique et TLS hybride post-quantique, mesurer les impacts techniques |
+| Machine hôte | Virtualisation | VirtualBox, 16 Go de RAM recommandés, 4 vCPU minimum, 80 Go de disque | Héberger les machines virtuelles du laboratoire |
+| VM 1 - Debian Server | Serveur TLS | Nginx ou Apache, OpenSSL 3, liboqs, oqs-provider | Générer des certificats classiques et PQC, tester TLS classique et TLS hybride post-quantique, mesurer les impacts techniques |
 | VM 2 - Parrot Security | Client de test et d’analyse | Wireshark, tcpdump, testssl.sh, openSSL client, nmap | Capturer les handshakes TLS, comparer RSA/ECC avec Kyber, observer les tailles de paquets et étudier les échanges réseau |
 | VM 3 -  Qiskit Lab | Simulation pédagogique d’algorithmes quantiques | Python, Jupyter Notebook, Qiskit | Simuler Grover, simuler Shor sur de petits nombres, illustrer les contraintes quantiques réelles et les limites actuelles du hardware |
 
