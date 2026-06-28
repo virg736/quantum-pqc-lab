@@ -46,7 +46,7 @@ Le projet vise à vulgariser le sujet sans sensationnalisme, tout en s’appuyan
 |---|---|---|---|
 | Machine hôte | Virtualisation | VirtualBox, 16 Go RAM recommandés, 4 vCPU minimum, 80 Go disque | Héberger les machines virtuelles du laboratoire |
 | VM 1 - Debian Server | Serveur TLS | nginx ou apache, OpenSSL 3, liboqs, oqs-provider | Générer des certificats classiques et PQC, tester TLS classique et TLS hybride post-quantique, mesurer les impacts techniques |
-| VM 2 - Parrot Security | Client de test et d’analyse | Wireshark, tcpdump, testssl.sh, openssl client, nmap | Capturer les handshakes TLS, comparer RSA/ECC avec Kyber, observer les tailles de paquets et étudier les échanges réseau |
+| VM 2 - Parrot Security | Client de test et d’analyse | Wireshark, tcpdump, testssl.sh, openSSL client, nmap | Capturer les handshakes TLS, comparer RSA/ECC avec Kyber, observer les tailles de paquets et étudier les échanges réseau |
 | VM 3 -  Qiskit Lab | Simulation pédagogique d’algorithmes quantiques | Python, Jupyter Notebook, Qiskit | Simuler Grover, simuler Shor sur de petits nombres, illustrer les contraintes quantiques réelles et les limites actuelles du hardware |
 
 ---
