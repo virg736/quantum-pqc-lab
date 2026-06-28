@@ -5,7 +5,7 @@
 <h1 align="center">Quantum-PQC-Lab</h1>
 
 <p align="center">
-  <strong>Laboratoire cybersécurité post-quantique — aperçu public</strong>
+  <strong>Laboratoire cybersécurité post-quantique - aperçu public</strong>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 
-# Quantum-PQC-Lab
+---
 
 ## Aperçu public du projet
 
