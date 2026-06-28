@@ -77,6 +77,14 @@ Cette capture montre la structure locale du projet créée sur Debian ainsi que 
 
 ---
 
+---
+
+### Capture — nginx actif sur Debian
+
+Cette capture montre que le service nginx est installé, lancé et actif sur la machine Debian Server.
+
+![Nginx actif sur Debian](debian-nginx-actif.png)
+
 ## Aperçu réseau
 
 La configuration réseau repose sur deux interfaces par machine virtuelle :
