@@ -51,9 +51,9 @@ Le projet vise à vulgariser le sujet sans sensationnalisme, tout en s’appuyan
 
 ---
 
-### Capture — structure du projet Debian
+### Capture - structure du projet Debian
 
-Cette capture montre la structure locale du projet créée sur Debian ainsi que la validation de l’accès Internet depuis la machine virtuelle.
+Cette capture montre la structure locale du projet créée sous Debian, ainsi que la validation de l’accès à Internet depuis la machine virtuelle.
 
 ![Structure du projet Debian](debian-structure-projet.png)
 
@@ -65,15 +65,15 @@ Cette capture montre la structure locale du projet créée sur Debian ainsi que 
 
 - Debian installé et mis à jour ;
 - Parrot Security installé et mis à jour ;
-- accès Internet validé sur Debian ;
-- accès Internet validé sur Parrot ;
-- structure locale du projet créée sur Debian ;
-- nginx installé sur Debian ;
-- nginx actif sur Debian ;
+- accès à Internet validé sous Debian ;
+- accès à Internet validé sous Parrot ;
+- structure locale du projet créée sous Debian ;
+- nginx installé sous Debian ;
+- nginx actif sous Debian ;
 - serveur HTTP Debian validé en local ;
-- netcat-openbsd installé sur Parrot ;
-- logique réseau VirtualBox validée ;
-- choix final : Adapter 1 en réseau interne, Adapter 2 en NAT.
+- netcat-openbsd installé sous Parrot ;
+- Configuration réseau VirtualBox validée ;
+- choix final : adaptateur 1 en réseau interne, adaptateur 2 en NAT.
 
 ---
 
