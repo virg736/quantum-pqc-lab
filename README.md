@@ -68,8 +68,8 @@ Cette capture montre la structure locale du projet créée sous Debian, ainsi qu
 - accès à Internet validé sous Debian ;
 - accès à Internet validé sous Parrot ;
 - structure locale du projet créée sous Debian ;
-- nginx installé sous Debian ;
-- nginx actif sous Debian ;
+- Nginx installé sous Debian ;
+- Nginx actif sous Debian ;
 - serveur HTTP Debian validé en local ;
 - netcat-openbsd installé sous Parrot ;
 - Configuration réseau VirtualBox validée ;
@@ -77,11 +77,11 @@ Cette capture montre la structure locale du projet créée sous Debian, ainsi qu
 
 ---
 
-### Capture - nginx actif sur Debian
+### Capture - nginx actif sous Debian
 
-Cette capture montre que le service nginx est installé, lancé et actif sur la machine Debian Server.
+Cette capture montre que le service Nginx est installé, lancé et actif sur la machine Debian Server.
 
-![Nginx actif sur Debian](debian-nginx-actif.png)
+![Nginx actif sous Debian](debian-nginx-actif.png)
 
 ## Aperçu réseau
 
@@ -94,9 +94,9 @@ Cette configuration permet de construire un laboratoire isolé tout en gardant l
 
 ---
 
-### Capture - port 80 ouvert sur Debian
+### Capture - port 80 ouvert sous Debian
 
-Cette capture montre que nginx écoute bien sur le port HTTP 80.
+Cette capture montre que Nginx écoute bien sur le port HTTP 80.
 
 ![Port 80 ouvert sur Debian](debian-port-80-ouvert.png)
 
@@ -113,7 +113,7 @@ Les captures disponibles dans ce dépôt montrent uniquement une partie de la co
 
 ---
 
-## Contenu non publié dans cette version
+## Contenu non inclus dans cette version publique
 
 La version publique ne contient pas :
 
@@ -129,8 +129,6 @@ La version publique ne contient pas :
 - les corrections ;
 - les supports de formation.
 
-Ces éléments sont réservés à la version complète privée ou aux formations professionnelles.
-
 ---
 
 ## Version complète
@@ -143,13 +141,16 @@ La version complète du laboratoire comprend :
 - OpenSSL 3 ;
 - liboqs ;
 - oqs-provider ;
-- tests TLS classique vs post-quantique ;
+- comparaison TLS classique / TLS post-quantique ;
 - démonstration TLS hybride ;
 - captures réseau Wireshark ;
 - scripts de benchmark ;
-- simulations Shor et Grover ;
+- simulations des algorithmes de Shor et de Grover ;
 - documentation complète ;
 - supports de formation.
+
+> 🔒 **Accès réservé**  
+> La version complète du laboratoire est réservée aux formations professionnelles, aux écoles d’ingénieurs et aux accompagnements encadrés.
 
 ---
 
@@ -159,7 +160,7 @@ Quantum-PQC-Lab a pour objectif de produire :
 
 - un laboratoire reproductible ;
 - un support pédagogique ;
-- un portfolio cybersécurité ;
+- un portfolio en cybersécurité ;
 - une base de démonstration post-quantique ;
 - une série de contenus techniques documentés pour GitHub, LinkedIn et la formation professionnelle.
 
@@ -189,13 +190,13 @@ Contact : `virginielechene@proton.me`
 | **OpenSSL** | Bibliothèque logicielle utilisée pour gérer TLS, certificats, clés et fonctions cryptographiques. |
 | **liboqs** | Bibliothèque open source dédiée aux algorithmes de cryptographie post-quantique. |
 | **oqs-provider** | Fournisseur OpenSSL permettant d’intégrer des algorithmes post-quantiques dans OpenSSL 3. |
-| **Kyber** | Algorithme post-quantique de mécanisme d’encapsulation de clés, utilisé pour protéger les échanges de clés. |
-| **Qiskit** | Framework Python permettant de créer et simuler des circuits quantiques. |
+| **Kyber** | Algorithme post-quantique d'encapsulation de clés, utilisé pour protéger les échanges de clés. |
+| **Qiskit** | Framework Python permettant de créer etde simuler des circuits quantiques. |
 | **Shor** | Algorithme quantique théorique capable de factoriser de grands nombres, ce qui menace RSA si des ordinateurs quantiques suffisamment puissants existent. |
 | **Grover** | Algorithme quantique qui accélère certaines recherches, avec un impact notamment sur la taille de sécurité des clés symétriques. |
 | **Store Now, Decrypt Later** | Stratégie consistant à stocker aujourd’hui des données chiffrées pour tenter de les déchiffrer plus tard avec de meilleures capacités, notamment quantiques. |
 | **Wireshark** | Outil d’analyse réseau permettant de capturer et observer les paquets échangés. |
-| **VirtualBox** | Logiciel de virtualisation permettant de créer et exécuter plusieurs machines virtuelles. |
+| **VirtualBox** | Logiciel de virtualisation permettant de créer et d'exécuter plusieurs machines virtuelles. |
 | **Debian Server** | Machine virtuelle utilisée comme serveur TLS dans le laboratoire. |
 | **Parrot Security** | Distribution Linux orientée cybersécurité utilisée ici comme client de test et d’analyse. |
 
