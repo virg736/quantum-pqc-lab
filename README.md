@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="quantum-pqc-lab.jpeg" alt="Quantum-PQC-Lab" width="700">
+</p>
+
+<h1 align="center">Quantum-PQC-Lab</h1>
+
+<p align="center">
+  <strong>Laboratoire cybersécurité post-quantique — aperçu public</strong>
+</p>
+
+<p align="center">
+  Debian Server · Parrot Security · VirtualBox · TLS · OpenSSL · oqs-provider · Qiskit
+</p>
+
 
 # Quantum-PQC-Lab
 
