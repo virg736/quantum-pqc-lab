@@ -96,6 +96,15 @@ Cette configuration permet de construire un laboratoire isolé tout en gardant l
 
 ---
 
+---
+
+### Capture — port 80 ouvert sur Debian
+
+Cette capture montre que nginx écoute bien sur le port HTTP 80.
+
+![Port 80 ouvert sur Debian](debian-port-80-ouvert.png)
+
+
 ## Captures d’écran
 
 Les captures disponibles dans ce dépôt montrent uniquement une partie de la configuration :
