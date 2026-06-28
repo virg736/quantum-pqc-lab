@@ -40,6 +40,30 @@ Le projet vise à vulgariser le sujet sans sensationnalisme, tout en s’appuyan
 
 ---
 
+## Lexique
+
+| Terme | Signification |
+|---|---|
+| **PQC** | Post-Quantum Cryptography, ou cryptographie post-quantique. Elle désigne les algorithmes conçus pour résister aux attaques d’ordinateurs quantiques. |
+| **RSA** | Algorithme de cryptographie classique utilisé notamment pour le chiffrement et la signature numérique. |
+| **ECC** | Elliptic Curve Cryptography. Cryptographie basée sur les courbes elliptiques, très utilisée aujourd’hui pour TLS, signatures et échanges de clés. |
+| **TLS** | Protocole qui sécurise les communications sur Internet, par exemple entre un navigateur et un serveur web. |
+| **TLS hybride** | Mode de transition combinant cryptographie classique et cryptographie post-quantique. |
+| **OpenSSL** | Bibliothèque logicielle utilisée pour gérer TLS, certificats, clés et fonctions cryptographiques. |
+| **liboqs** | Bibliothèque open source dédiée aux algorithmes de cryptographie post-quantique. |
+| **oqs-provider** | Fournisseur OpenSSL permettant d’intégrer des algorithmes post-quantiques dans OpenSSL 3. |
+| **Kyber** | Algorithme post-quantique de mécanisme d’encapsulation de clés, utilisé pour protéger les échanges de clés. |
+| **Qiskit** | Framework Python permettant de créer et simuler des circuits quantiques. |
+| **Shor** | Algorithme quantique théorique capable de factoriser de grands nombres, ce qui menace RSA si des ordinateurs quantiques suffisamment puissants existent. |
+| **Grover** | Algorithme quantique qui accélère certaines recherches, avec un impact notamment sur la taille de sécurité des clés symétriques. |
+| **Store Now, Decrypt Later** | Stratégie consistant à stocker aujourd’hui des données chiffrées pour tenter de les déchiffrer plus tard avec de meilleures capacités, notamment quantiques. |
+| **Wireshark** | Outil d’analyse réseau permettant de capturer et observer les paquets échangés. |
+| **VirtualBox** | Logiciel de virtualisation permettant de créer et exécuter plusieurs machines virtuelles. |
+| **Debian Server** | Machine virtuelle utilisée comme serveur TLS dans le laboratoire. |
+| **Parrot Security** | Distribution Linux orientée cybersécurité utilisée ici comme client de test et d’analyse. |
+
+---
+
 ## Architecture générale du laboratoire
 
 | Élément | Rôle | Services / outils | Objectifs |
