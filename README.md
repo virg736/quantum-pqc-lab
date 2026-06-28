@@ -38,7 +38,7 @@ L’objectif est de créer un laboratoire reproductible afin de démontrer concr
 
 Le projet vise à vulgariser le sujet sans sensationnalisme, tout en s’appuyant sur des mécanismes techniques réels.
 
-Ce dépôt public présente une version de démonstration. La version complète est destinée aux formations professionnelles, aux écoles d’ingénieurs, aux accompagnements encadrés et aux usages professionnels.
+Ce dépôt public présente une version de démonstration. La version complète est destinée aux formations professionnelles, aux écoles d’ingénieurs, aux ingénieurs, aux accompagnements encadrés et aux usages professionnels.
 
 --- 
 
