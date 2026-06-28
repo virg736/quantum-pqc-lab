@@ -169,6 +169,17 @@ Quantum-PQC-Lab a pour objectif de produire :
 
 ## Accès complet
 
+> 🔒 **Accès réservé**  
+> La version complète du laboratoire est réservée aux formations professionnelles, aux écoles d’ingénieurs et aux accompagnements encadrés.
+
+Pour obtenir plus d’informations sur la version complète du laboratoire, organiser une formation ou échanger autour d’une collaboration professionnelle :
+
+**Virginie Lechene**  
+Site web : `ton-lien-site`  
+Contact : `virginielechene@proton.me`
+
+## Accès complet
+
 Pour obtenir la version complète du laboratoire ou organiser une formation professionnelle :
 
 **Virginie Lechene**  
